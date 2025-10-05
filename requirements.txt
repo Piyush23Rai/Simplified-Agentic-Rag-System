@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-google-genai
+langchain-pinecone
+pinecone-client
+google-cloud-aiplatform
+pydantic
+python-dotenv
